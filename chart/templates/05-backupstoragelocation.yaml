@@ -23,5 +23,5 @@ spec:
   objectStorage:
     bucket: {{.Values.azure.container}}
   config:
-    resourceGroup: {{.Values.azure.resourceGroup}}
+    resourceGroup: {{.Values.azure.storageResourceGroup}}
     storageAccount: {{.Values.azure.storageAccount}}

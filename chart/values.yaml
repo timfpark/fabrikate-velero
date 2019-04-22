@@ -3,6 +3,7 @@
 #  tenantId:
 #  clientId:
 #  clientSecret:
-#  resourceGroup:
+#  clusterResourceGroup:
+#  storageResourceGroup:
 #  storageAccount:
 #  container:
