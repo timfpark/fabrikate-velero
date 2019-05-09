@@ -37,7 +37,7 @@ spec:
           emptyDir: {}
       containers:
         - name: velero
-          image: gcr.io/heptio-images/velero:v1.0.0-alpha.1
+          image: gcr.io/heptio-images/velero:v1.0.0-beta.1
           command:
             - /velero
           args:
